@@ -1,4 +1,4 @@
-# Hola, soy Bruno Toro, estudiante de Ingeniería Civi Informática.
+# Hola, soy Bruno Toro, estudiante de Ingeniería Civil Informática.
 
 <div align="center">
   <a href="https://github.com/Norwrongcl">
