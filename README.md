@@ -8,7 +8,7 @@
  
   
 #### Lenguajes en los que programo:
-<div style="display: inline_block"><cl>
+<div style="display: inline_block">
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
